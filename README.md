@@ -169,7 +169,8 @@ GROUP BY Revenue_Rank;
 
 # Project Summary: 
 Led an analytics project for a major Indian e-commerce marketplace to provide data-driven insights into customer behavior, seller performance, product trends, and payment preferences. Utilized a comprehensive dataset across various business domains, including customers, orders, products, and reviews.
-Key Skills and Responsibilities:
+
+# Key Skills and Responsibilities:
 
 #### * Data Wrangling & Preprocessing: 
 Cleaned and prepared the data by removing null values, handling duplicates, and ensuring consistent data formats. Leveraged MySQL for efficient data management, modified data types for consistency, and applied SQL TRIM functions to standardize text data.
