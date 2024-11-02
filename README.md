@@ -166,7 +166,5 @@ WHERE Revenue_Rank = 1
 GROUP BY Revenue_Rank;
 
 
-[Download Report](/Users/anshitapriyadarshini/Downloads/Marketing Analytics for E-Commerce Marketplace.pdf)
-
 
 
