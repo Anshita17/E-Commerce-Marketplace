@@ -171,14 +171,22 @@ GROUP BY Revenue_Rank;
 Led an analytics project for a major Indian e-commerce marketplace to provide data-driven insights into customer behavior, seller performance, product trends, and payment preferences. Utilized a comprehensive dataset across various business domains, including customers, orders, products, and reviews.
 Key Skills and Responsibilities:
 
-* Data Wrangling & Preprocessing: Cleaned and prepared the data by removing null values, handling duplicates, and ensuring consistent data formats. Leveraged MySQL for efficient data management, modified data types for consistency, and applied SQL TRIM functions to standardize text data.
-* SQL & Database Management: Managed relational databases using SQL, with complex joins across multiple tables (e.g., Customers, Orders, Products, Payments). Conducted data extractions, transformations, and loaded processes for smooth analysis.
-* Exploratory Data Analysis (EDA): Performed high-level metrics calculations and identified patterns in customer acquisition, retention, and purchase frequency. Utilized SQL queries to explore seasonal sales trends and geographic demand variations.
-* Customer and Seller Segmentation: Conducted revenue-based segmentation for targeted insights into customer and seller behaviors. Utilized ranking functions to identify top contributors to revenue and prioritized high-value segments.
-* Product & Sales Analysis: Analyzed popular product categories by month, region, and seller. Created actionable insights, such as identifying top revenue-generating products and most expensive items by seller.
-* Advanced SQL Analytics: Calculated metrics including 3-month moving average, monthly cumulative revenue, percentile analysis for product pricing, and cross-selling patterns for bundled sales strategies.
-* Payment Behavior Analysis: Assessed payment preferences and behavioral trends to optimize payment options and enhance the user experience.
-* Performance Reporting & Insights: Developed insights on high-revenue products, popular categories, and regional demand trends. Recommended targeted promotions, loyalty programs, and cross-selling opportunities to improve engagement and revenue.
+#### * Data Wrangling & Preprocessing: 
+Cleaned and prepared the data by removing null values, handling duplicates, and ensuring consistent data formats. Leveraged MySQL for efficient data management, modified data types for consistency, and applied SQL TRIM functions to standardize text data.
+#### * SQL & Database Management: 
+Managed relational databases using SQL, with complex joins across multiple tables (e.g., Customers, Orders, Products, Payments). Conducted data extractions, transformations, and loaded processes for smooth analysis.
+#### * Exploratory Data Analysis (EDA): 
+Performed high-level metrics calculations and identified patterns in customer acquisition, retention, and purchase frequency. Utilized SQL queries to explore seasonal sales trends and geographic demand variations.
+#### * Customer and Seller Segmentation:
+Conducted revenue-based segmentation for targeted insights into customer and seller behaviors. Utilized ranking functions to identify top contributors to revenue and prioritized high-value segments.
+#### * Product & Sales Analysis:
+Analyzed popular product categories by month, region, and seller. Created actionable insights, such as identifying top revenue-generating products and most expensive items by seller.
+#### * Advanced SQL Analytics: 
+Calculated metrics including 3-month moving average, monthly cumulative revenue, percentile analysis for product pricing, and cross-selling patterns for bundled sales strategies.
+#### * Payment Behavior Analysis:
+Assessed payment preferences and behavioral trends to optimize payment options and enhance the user experience.
+#### * Performance Reporting & Insights:
+Developed insights on high-revenue products, popular categories, and regional demand trends. Recommended targeted promotions, loyalty programs, and cross-selling opportunities to improve engagement and revenue.
 
 # Results: 
 Delivered actionable insights that influenced client strategies, improved customer engagement, optimized inventory, and supported targeted promotions for high-performing products and regions.
