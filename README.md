@@ -5,14 +5,14 @@ This project focuses on a leading e-commerce marketplace in India, where our obj
 
 To provide data-driven insights that inform business strategies and optimize operations across various dimensions, including customer engagement, seller performance, product offerings, and channel effectiveness.
 # Dataset Overview
-Customers: Contains information about customers, including demographics and geographic locations.
-Sellers: Details about sellers operating in the marketplace.
-Products: Information on products available for sale, including descriptions and dimensions.
-Orders: Overview of order transactions, including statuses and timestamps.
-Order Items: Detailed information on individual items within each order.
-Order Payments: Records of payment transactions associated with orders.
-Order Review Ratings: Customer ratings for each order.
-Geo-Location: Location data associated with customers and sellers.
+Customers: Contains information about customers, including demographics and geographic locations.  
+Sellers: Details about sellers operating in the marketplace.  
+Products: Information on products available for sale, including descriptions and dimensions.  
+Orders: Overview of order transactions, including statuses and timestamps.  
+Order Items: Detailed information on individual items within each order.  
+Order Payments: Records of payment transactions associated with orders.  
+Order Review Ratings: Customer ratings for each order.  
+Geo-Location: Location data associated with customers and sellers.  
  # Platform Used
  * Database: MySQL
 # Data Preparation
