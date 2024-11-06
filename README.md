@@ -16,10 +16,10 @@ Geo-Location: Location data associated with customers and sellers.
  # Platform Used
  * Database: MySQL
 # Data Preparation
-Modified data types of key date-related columns to ensure consistent date formats across tables
-Used SQL TRIM to remove any extraneous white spaces
-Counted NULL values across tables to identify data quality issues and removed for data accuracy
-Checks were performed on unique identifiers, such as customer_id and order_id, to detect and address duplicates
+Modified data types of key date-related columns to ensure consistent date formats across tables  
+Used SQL TRIM to remove any extraneous white spaces  
+Counted NULL values across tables to identify data quality issues and removed for data accuracy  
+Checks were performed on unique identifiers, such as customer_id and order_id, to detect and address duplicates  
 # High-Level Metrics Calculation
 
 #  Customer Acquisition Trends
