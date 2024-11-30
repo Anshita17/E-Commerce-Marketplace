@@ -14,7 +14,12 @@ Order Payments: Records of payment transactions associated with orders.
 Order Review Ratings: Customer ratings for each order.  
 Geo-Location: Location data associated with customers and sellers.  
  # Platform Used
- * Database: MySQL
+ * Database: MySQL, Tableau
+
+# Tableau Public Dashboard
+[View Dashboard](https://public.tableau.com/views/EcommerceMarketPlace/Sellersdb?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+ 
 # Data Preparation
 Modified data types of key date-related columns to ensure consistent date formats across tables  
 Used SQL TRIM to remove any extraneous white spaces  
