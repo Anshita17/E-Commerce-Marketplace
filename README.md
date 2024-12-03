@@ -18,7 +18,7 @@ Geo-Location: Location data associated with customers and sellers.
  * Visualization: Tableau
 
 # Tableau Public Dashboard
-[View Dashboard](https://public.tableau.com/views/EcommerceMarketPlace/Sellersdb?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard](https://public.tableau.com/views/EcommerceMarketPlace/Sellersdb?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 [Dashboard Video Demo](https://github.com/Anshita17/E-commerce-Marketplace-Tableau-Dashboard)
 
  
